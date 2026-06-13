@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Nexus KeyMapper</string>
+    <string name="accessibility_service_description">Nexus KeyMapper intercepts connected physical keyboard and mouse inputs, translating them to on-screen touch gestures to allow playing FPS mobile games with gaming peripherals.</string>
+</resources>

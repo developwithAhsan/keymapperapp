@@ -1,0 +1,6 @@
+{
+  "name": "Nexus KeyMapper",
+  "description": "Play Android FPS titles using a physical mouse and keyboard with a customizable touch-overlay screen mapping and high-precision mouse-to-touch look controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
